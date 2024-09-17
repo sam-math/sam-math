@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Sam. I'm a Cambridge graduate MBA and Data Scientist passionated about all things Python & Maths!
+
+I'm currently: 
+- 🔭 Working on [TensorCar](https://tensorcar.streamlit.app/) a machine-learning app that helps you buy a car.
+- 🌱 Learning Polars and Streamlit (Python).
+- 👯 Looking to collaborate on data-driven products and process-change.
+
+
 <!--
 **sam-math/sam-math** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
