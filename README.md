@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Sam. I'm a Cambridge graduate MBA and Data Scientist passionated about all things Python & Maths!
+My name is Sam. I'm a Cambridge Data Scientist passionated about all things Python & Maths!
 
 I'm currently: 
 - 🔭 Working on [TensorCar](https://tensorcar.streamlit.app/) a machine-learning app that helps you buy a car.
