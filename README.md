@@ -1,5 +1,5 @@
 ![](https://github.com/sam-math/sam-math/blob/main/LI%20-%20Sam.png)
-### Hi there 👋
+# Hi there 👋
 ### My name is Sam. I'm a Cambridge Data Scientist passionated about all things Python & Maths!
 
 I'm currently: 
