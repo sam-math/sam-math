@@ -4,7 +4,7 @@
 
 I'm currently: 
 - 🔭 Working on [TensorCar](https://tensorcar.streamlit.app/) a machine-learning app that helps you buy a car.
-- 🌱 Learning [Polars](https://pola.rs/) and [Streamlit](https://streamlit.io/).
+- 🌱 Learning [Polars](https://pola.rs/), [Streamlit](https://streamlit.io/), and pursuing [Microsoft Azure Data certifications](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification).
 - 👯 Looking to collaborate on data-driven products.
 
 ## 💻 Tech Stack:
